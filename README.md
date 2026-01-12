@@ -90,7 +90,24 @@ Each control was configured through domain-based Group Policy Objects(GPOs)and v
 
 
 
-📂 Project Structure
+🎯 What I learned
+
+  - How to build and manage a Windows domain environment
+  - How Group Policy enforces enterprise security controls
+  - How to disable legacy protocols and reduce attack surface
+  - How to document technical work for a professional portfolio
+  - How to verify security settings using PowerShell and GUI tools
+
+
+🧩 Why this Project Matters
+
+ This project demonstrates real-world skills used in:
+
+  - Cybersecurity
+  - IT Support
+  - System Administration
+  - SOC Analyst roles
+  - Help Desk -> SysAdmin career paths
 
 
 
