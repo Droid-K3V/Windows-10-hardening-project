@@ -1,4 +1,4 @@
-📘Windows 10 Hardening Project(Domain GPO Baseline)
+#📘Windows 10 Hardening Project(Domain GPO Baseline)
 
 This project demonstrates a full Windows 10 enterprise hardening baseline using Active Directory,Group Policy, and a Windows Server 2019 Domain Controller.
 
@@ -6,7 +6,7 @@ The Goal was to secure a Windows 10 workstation by applying industry-standard se
 
 This Project is designed for Cyberseurity, IT Support, and System Administrations portfolios.
 
-🛠️Lab Environment
+##🛠️Lab Environment
 
   -Windows Server 2019(Domain Controller)
   
@@ -18,7 +18,7 @@ This Project is designed for Cyberseurity, IT Support, and System Administration
   
   -PowerShell
 
-🛡️Hardening Controls Implemented
+##🛡️Hardening Controls Implemented
 
 Each control was configured through domain-based Group Policy Objects(GPOs)and verified on the Windows 10 Client
 
@@ -90,7 +90,7 @@ Each control was configured through domain-based Group Policy Objects(GPOs)and v
 
 
 
-🎯 What I learned
+##🎯 What I learned
 
   - How to build and manage a Windows domain environment
   - How Group Policy enforces enterprise security controls
@@ -99,7 +99,7 @@ Each control was configured through domain-based Group Policy Objects(GPOs)and v
   - How to verify security settings using PowerShell and GUI tools
 
 
-🧩 Why this Project Matters
+##🧩 Why this Project Matters
 
  This project demonstrates real-world skills used in:
 
